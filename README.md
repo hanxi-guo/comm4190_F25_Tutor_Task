@@ -8,7 +8,7 @@ All sessions were analyzed to evaluate how prompt structure changes clarity, ton
 
 ---
 
-## 📂 Files in this Repository
+## File sturcture in this Repository
 
 - [Session1_Vanilla.md](Session1_Vanilla.md)  
   Unstructured tutoring session (no prompt engineering).
