@@ -8,7 +8,7 @@ All sessions were analyzed to evaluate how prompt structure changes clarity, ton
 
 ---
 
-## File sturcture in this Repository
+## Files in this Repository
 
 - [Session1_Vanilla.md](Session1_Vanilla.md)  
   Unstructured tutoring session (no prompt engineering).
@@ -34,5 +34,5 @@ All sessions were analyzed to evaluate how prompt structure changes clarity, ton
 ---
 
 Author: Hanxi Guo  
-Course: COMM 4190 – Talking with AI (University of Pennsylvania)  
+Course: COMM 4190-Talking with AI: Computational and Communication Approaches (University of Pennsylvania)  
 Date: October 2025
