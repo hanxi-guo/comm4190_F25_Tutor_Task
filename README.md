@@ -1,6 +1,4 @@
-# comm4190_F25_Tutor_Task
-
-# 🎯 Testing LLMs as a Data Cleaning Tutor (in R)
+# Testing LLMs as a Data Cleaning Tutor (in R)
 
 ## Overview
 This project tests how structured prompting shapes the tutoring behavior of a large language model (LLM).  
